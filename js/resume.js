@@ -48,7 +48,7 @@ const resume = {
         'MySQL',
         'GIT',
     ],
-    languages: ['English (B1)', 'Spanish'],
+    languages: ['English (A2)', 'Spanish'],
     professionalSummary: `Developer specialized in creation of web and mobile apps hybrid, capable of
 self-learning, management time and team leadership, focused on meeting goals, I like order, that's why I'm given to use of tools that we help to be up to date, both individually and as a team.`,
     employmentHistory: [
