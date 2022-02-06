@@ -151,7 +151,7 @@ self-learning, management time and team leadership, focused on meeting goals, I 
             ]
         },
     ],
-    photo: 'https://media-exp1.licdn.com/dms/image/C5603AQE3shEf05aT4Q/profile-displayphoto-shrink_800_800/0/1628715266951?e=1642636800&v=beta&t=qvO-2Orsgc9CQtXWLVw3sn1i10JcWxUBouS1C3y5c90',
+    photo: 'https://media-exp1.licdn.com/dms/image/C5603AQE3shEf05aT4Q/profile-displayphoto-shrink_200_200/0/1628715266951?e=1649894400&v=beta&t=SMTaq2BdjlIxIkg0OxW8TJyXUv4RQSUJNEJsVaCuS8Q',
 }
 
 const formatResume = (r) => ({
