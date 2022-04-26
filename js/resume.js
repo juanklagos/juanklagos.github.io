@@ -53,14 +53,14 @@ const resume = {
 self-learning, management time and team leadership, focused on meeting goals, I like order, that's why I'm given to use of tools that we help to be up to date, both individually and as a team.`,
     employmentHistory: [
         {
-            jobTitle: 'FrontEnd Developer',
+            jobTitle: 'Team Lead',
             startDate: 'JUN 2020',
             endDate: 'PRESENT',
             employer: 'CUEMBY INC',
             city: 'Remote',
             achievements: [
                 'Metodologías agilie scrum, Aplicaciones spa, pwa, cordava e hibrida,\n' +
-                'jQuery, css, html, laravel, git, Docker, Kubernates, VUEJS,TYPESCRIPT, php,nutxjs\n.'
+                'jQuery, css, html, laravel, git, Docker, Node js, Kubernates, VUEJS,TYPESCRIPT, php,nutxjs\n.'
             ]
         },
         {
