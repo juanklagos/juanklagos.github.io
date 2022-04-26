@@ -163,10 +163,17 @@ const formatResume = (r) => ({
     ].filter(Boolean).join(', ')
 })
 
-new Vue({
-    el: "#app",
-    data: formatResume(resume)
-});
+  Vue.createApp({
+    data() {
+      return {
+         formatResume(resume)
+      }
+    }
+  }).mount('#app')
+//new Vue({
+//    el: "#app",
+//    data: formatResume(resume)
+//});
 
 /**
  * Wait for animatable-component to be loaded (Only for VanillaJS)
