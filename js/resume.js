@@ -1,4 +1,4 @@
-import profile from "../profile.jpg"
+import profile from "../../profile.jpg"
 const resume = {
     firstName: 'Juan Carlos',
     lastName: 'Alvarez L',
